@@ -110,26 +110,6 @@ export default function AddressPage() {
                        </Button>
                     </CardActions>
                 </Card>
-                {/* <div className='flex-container'>
-                    <form>
-                        <label htmlFor='state'>State</label>
-                        <select>
-                            <option>select state</option>
-                            <option>Maharashtra</option>
-                            <option>Gujarat</option>
-                            <option>Delhi</option>
-                            <option>UttarPradesh</option>
-                        </select>
-                        <label htmlFor='city'>City</label>
-                        <input type='text' placeholder='Enter your city' />
-
-                        <label htmlFor='address'>Address</label>
-                        <input type='text' placeholder='Enter your address' />
-                        <label htmlFor='postalcode'>Postal Code</label>
-                        <input type='number' placeholder='Postal-code' />
-
-                    </form>
-                </div> */}
             </div>
         </>
     )
